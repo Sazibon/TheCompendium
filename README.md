@@ -6,7 +6,7 @@ Adblockers are mandatory, no discussion. There are different alternatives, but f
 
 -General purpose: uBlock Origin ([uBlock origin lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=es) in the case of chrome)
 
--YOUTUBE: youtube might sometimes detech uBlock Origin, in those cases RedBlock appears to work fine ([RedBlock https://chromewebstore.google.com/detail/redblock-block-ads-on-you/kgmeeealooifkhhnfoembnihiehmicfd])
+-YOUTUBE: youtube might sometimes detech uBlock Origin, in those cases RedBlock appears to work fine ([RedBlock](https://chromewebstore.google.com/detail/redblock-block-ads-on-you/kgmeeealooifkhhnfoembnihiehmicfd))
 
 
 ## RDP solutions
