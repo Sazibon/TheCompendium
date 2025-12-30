@@ -26,6 +26,7 @@ Sometimes is practical to have a second email address, so that you don't have to
 
 -[Proton Mail](https://proton.me/es-es/mail): good alternative to have a secondary mail address, easy to setup, no questions asked. Their working moto is "whats yours is yours", appear to have legitimate interest in mantaining user privacy private (revolutionary idea in this day aand age).
 
+-[10 minute mail](https://10minutemail.com/) & [GuerrillaMail](https://www.guerrillamail.com/): good solution if you need to access that fishy looking webpage. People say that you shouldn't use this since the information is not really private, BUT THAT IS THE FUCKING POINT INNIT? USE THEM AS ONE TIME SOLUTIONS, ALWAYS GIVE FAKE NAMES AND PASSWORDS!!
 
 ## Fuck Adobe
 Self explaining section:
